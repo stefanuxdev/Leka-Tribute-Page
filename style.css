@@ -1,0 +1,30 @@
+#image {
+  max-width: 100%;
+ 
+  margin: 1px auto 0 auto;
+  display: block;
+   
+}
+
+#img-caption {
+  text-align: center;
+  font-size: 25px;
+  margin-top: auto;
+  padding:5px;
+}
+
+
+
+p{
+  font-style: Verdana;
+  font-size: 30px;
+  padding: auto;
+  color: #000;
+}
+
+
+body {
+  font-family: Verdana;
+  
+  text-align: left;
+}
